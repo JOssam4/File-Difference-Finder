@@ -6,4 +6,4 @@ Requirement: python3
 Usage: `python3 fileDiff.py <file1> <file2>`
 
 
-
+Installation: none. Just copy fileDiff.py to wherever you want it.
